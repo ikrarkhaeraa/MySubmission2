@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MySubmission1</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="description_welcome">Story App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="title_register">Register Here</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="story_name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="description">Description</string>
+    <string name="add">Add Story</string>
+    <string name="maps">Maps</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="location">Share Location?</string>
+    <string name="start_point">Start Point</string>
+    <string name="retry">Coba lagi</string>
+    <string name="error_password">Password should have at least 6 characters</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
